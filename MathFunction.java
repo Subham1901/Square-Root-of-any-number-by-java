@@ -1,5 +1,5 @@
 @author Subham
-*/ here i have mentioned that how to print square root of any number b using Math class*/
+/* here i have mentioned that how to print square root of any number b using Math class*/
 import java.util.Scanner;
 public class MathFunction{
 	public static void main(String[] args){
